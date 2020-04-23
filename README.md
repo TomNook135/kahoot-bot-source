@@ -45,5 +45,5 @@ then,
 
 8. Paste your kahoot's URL (CMD+V) and press enter.
 
-##Why am I uploading this?
+## Why am I uploading this?
 I made this because I was bored. I wasn't really going to use it, it was just something created to pass time. To let this go to waste is a shame, thus I am uploading it to github for the people who do need it.
