@@ -1,4 +1,4 @@
-# kahoot-bot-source
+# How to download Kahooti
 Downloading this is quite simple.
 
 ## Windows
