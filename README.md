@@ -13,7 +13,11 @@ Downloading this is quite simple.
 4. Open Command Prompt (CMD.exe) 
 
 5. If you downloaded it inside of your Downloads folder, type the following into CMD: 
+
 `cd Downloads\kahoot-bot-source-master`
+
+then,
+
 `npm install`
 
 6. Don't get overwhelmed by all the text you see on screen. Just wait until the command finishes.
@@ -34,8 +38,11 @@ Downloading this is quite simple.
 4. Open Terminal in launchpad
 
 5. If you downloaded it inside of your Downloads folder, type the following into Terminal: 
+
 `cd Downloads/kahoot-bot-source-master`
+
 then,
+
 `npm install`
 
 6. Don't get overwhelmed by all the text you see on screen. Just wait until the command finishes.
